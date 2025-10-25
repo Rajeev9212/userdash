@@ -1,16 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/951b7790-b06a-4696-8618-e66344ab30d2
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/951b7790-b06a-4696-8618-e66344ab30d2) and start prompting.
+# Welcome to your  project
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,8 +50,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/951b7790-b06a-4696-8618-e66344ab30d2) and click on Share -> Publish.
-
+  i'm deployed this using netlify https://usernexus.netlify.app/
 ## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
